@@ -1,14 +1,13 @@
 <div align="center">
-  <img height="148" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzlkcTJjZ3dtOTdhNDJmdjE1eGd4MW5vOXNvM3VmY3A3bHd0N2hnayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oFYKw5OTZBZzVONpUh/giphy.gif"  />
+  <img height="148" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWhnMDg2d25uejJsemNrODg3NzhoMW5jeDZ3NXBpZHN6emN6OW9tdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif"  />
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+  <a href="https://www.linkedin.com/in/eduardo-salinas-garcia/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
 </div>
 
 ###
@@ -81,12 +80,8 @@
 
 ###
 
+<br clear="both">
+
 <img src="https://raw.githubusercontent.com/ThankedDeer/ThankedDeer/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=@ThankedDeer&theme=dark" alt="Layout with last medium posts"  />
-</div>
 
 ###
